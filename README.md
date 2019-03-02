@@ -71,6 +71,3 @@ const config = {
 ## Thanks
 - [canvas-nest.js](https://github.com/hustcc/canvas-nest.js)
 
-## License
-
-[MIT](https://github.com/ZYSzys/vue-canvas-nest/blob/master/LICENSE).
