@@ -65,9 +65,4 @@ const config = {
 };
 ```
 
-## Contributors
-- [ZYSzys](https://github.com/ZYSzys)
-
-## Thanks
-- [canvas-nest.js](https://github.com/hustcc/canvas-nest.js)
 
